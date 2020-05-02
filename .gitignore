@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+*.db
+Source/Main/.vs/Main/v15/.suo
+Source/Main/.vs/Main/v15/Browse.VC.opendb
+Source/Main/.vs/Main/v15/ipch/AutoPCH/3e4e578175d06d0c/T_POOL.ipch
+Source/Main/.vs/Main/v15/ipch/AutoPCH/a69e25023412dcf8/MAIN.ipch
