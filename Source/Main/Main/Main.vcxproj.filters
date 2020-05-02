@@ -20,9 +20,6 @@
     <ClCompile Include="Interface_.cpp">
       <Filter>T_Pool</Filter>
     </ClCompile>
-    <ClCompile Include="Res_Mgr.cpp">
-      <Filter>T_Pool</Filter>
-    </ClCompile>
     <ClCompile Include="T_pool.cpp">
       <Filter>T_Pool</Filter>
     </ClCompile>

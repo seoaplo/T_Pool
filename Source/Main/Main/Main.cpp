@@ -2,9 +2,31 @@
 //
 
 #include <iostream>
+#include "T_pool.h"
+
+struct tester
+{
+    int aa = 1;
+    tester()
+    {
+        aa = 10;
+    }
+    tester(size_t a)
+    {
+        aa = a;
+    }
+};
 
 int main()
 {
+    std::vector<tester> set;
+    std::vector<tester> set2;
+    std::vector<tester> set3;
+    set.resize(5);
+    set2.assign(6,6);
+    set3.reserve(8);
+    int a = 0;
+    
     std::cout << "Hello World!\n";
 }
 

@@ -153,7 +153,6 @@
   <ItemGroup>
     <ClCompile Include="Interface_.cpp" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Res_Mgr.cpp" />
     <ClCompile Include="T_pool.cpp" />
   </ItemGroup>
   <ItemGroup>
