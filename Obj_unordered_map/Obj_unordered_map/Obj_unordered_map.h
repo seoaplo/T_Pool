@@ -5,7 +5,7 @@
 #include <assert.h>
 #include <functional>
 
-
+#include <queue>
 enum  class E_OBJ
 {
     PLAYER,
@@ -14,6 +14,7 @@ enum  class E_OBJ
     MAP,
     ETC
 };
+
 
 //////////////////////////////////////////////////
 template<typename T>                            //
